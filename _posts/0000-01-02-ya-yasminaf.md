@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: Ascend
+title: "Worship LingLing"
 ---
-Your text
-Use the left arrow to go back!
+Practice 40 hours a day
+
